@@ -5,12 +5,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anujdubey770) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujkumard770@gmail.com) 
 
-## 🛠️ Skills & Tools
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,java,html,css,js,git,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,ts,netlify,vercel,nextjs,nodejs,pnpm,react,mongodb,mysql,postgres,prisma,blender,github,unity,itchio,docker&perline=8" />
 </p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anujkumard770-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anujkumard770-cloud&theme=dark&hide_border=false)<br/>
