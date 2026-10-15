@@ -8,7 +8,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,ts,netlify,vercel,nextjs,nodejs,pnpm,react,mongodb,mysql,postgres,prisma,blender,github,unity,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,ts,netlify,vercel,nextjs,nodejs,pnpm,react,mongodb,mysql,postgres,prisma,blender,github,unity,docker&perline=8,qt" />
   <br />
   <a href="apka-itch-io-link">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
