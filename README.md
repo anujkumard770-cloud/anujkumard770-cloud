@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on:<br>SAMVADAM — a real-time chat app with Next.js, Socket.io & MongoDB, and Hospital Tycoon, a Unity management game, as a Game Dev Intern at GauravGo Games Technologies<br><br>👯 I'm looking to collaborate on:<br>Full-stack web apps (React.js / Next.js / MongoDB) and Unity game projects — especially anything mythology/Ramayana-themed<br><br>🌱 I'm currently learning:<br>Advanced Next.js (App Router, server actions), Data Structures & Algorithms, and Unity physics/navigation systems<br><br>💬 Ask me about:<br>React.js, Next.js, Node.js, MongoDB, TailwindCSS, or Unity & C# game development
+🔭 I'm currently working on:<br>SAMVADAM — a real-time chat app with Next.js, Socket.io & MongoDB, and Hospital Tycoon, a Unity management game, as a Game Dev Intern at GauravGo Games Technologies<br><br>👯 I'm looking to collaborate on:<br>Full-stack web apps (React.js / Next.js / MongoDB) and Unity game projects — especially anything mythology/Ramayana-themed<br><br>🌱 I'm currently learning:<br>Advanced Next.js (App Router, server actions), Data Structures & Algorithms, and Unity physics/navigation systems<br><br>💬 Ask me about:<br>React.js, Next.js, Node.js, MongoDB, TailwindCSS, and Unity & C# game development
 
 
 ## 🌐 Socials:
