@@ -5,16 +5,17 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anujdubey770) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujkumard770@gmail.com) 
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,ts,netlify,vercel,nextjs,nodejs,pnpm,react,mongodb,mysql,postgres,prisma,blender,github,unity,qt,docker&perline=8" />
-  <br />
-  <a href="apka-itch-io-link">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,ts,netlify,vercel,nextjs,nodejs,npm,pnpm,react,mongodb,mysql,postgres,supabase,prisma,blender,github,unity,qt,cmake,postman,docker&perline=8" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+  <a href="https://itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
 </p>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anujkumard770-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
