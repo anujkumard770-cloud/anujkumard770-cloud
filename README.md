@@ -36,6 +36,3 @@
 [![](https://komarev.com/ghpvc/?username=anujkumard770-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-![](https://github-readme-stats.shion.dev/api?username=anujkumard770-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
